@@ -7,7 +7,7 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas97/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />](https://github.com/sijothomas97)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" />](mailto:sijo.thomas0097@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /><b>`+44 776 799 0251`</b>
+<a href="tel:+44 7767990251"><img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /><b>`+44 776 799 0251`</b></a>
 
 
 
