@@ -2,7 +2,7 @@
 
 # `I'm Sijo Thomas,`
 # `A Full Stack Python Developer`
-## `ML | NLP | Deep Learning`
+## `AI | ML | NLP`
 
 [<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas97/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />](https://github.com/sijothomas97)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
