@@ -47,7 +47,7 @@
   - `Full Stack ML Engineer` @ AI/ML Solutions Team (Aug 2018 - Jul 2020)
   - Tools Developed: `Ticket Triaging`
 
-  - `Backend Engineer` @ Metlife Account(Oct 2017 - Jul 2018)
+  - `Backend Engineer` @ Metlife Account (Oct 2017 - Jul 2018)
   - Tools developed: `Data Masking Tool`
 
 
