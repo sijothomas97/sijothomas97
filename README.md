@@ -37,14 +37,17 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have...`
 
 #### `Wipro Ltd` (Jan 2022 - July 2022)
-  - `Senior Developer | Senior System Engineer` @ Dell Account
+  - `Senior System Engineer` @ Dell Account
   - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
-  - `Full Stack Developer | System Engineer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
-  - Tools Developed: `Ticket Triaging, Fraud Detection, Microbots Automation`
+  - `System Engineer` @ AI/ML Solutions Team (Aug 2020 - Dec 2021)
+  - Tools Developed: `Microbots Automation, Fraud Detection`
 
-  - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
+  - `Full Stack ML Engineer` @ AI/ML Solutions Team (Aug 2018 - Jul 2020)
+  - Tools Developed: `Ticket Triaging`
+
+  - `Backend Engineer` @ Metlife Account(Oct 2017 - Jul 2018)
   - Tools developed: `Data Masking Tool`
 
 
