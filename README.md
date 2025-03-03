@@ -43,7 +43,7 @@
   - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
-  - `System Engineer` (Oct 2017 - Dec 2021) (4 Years)
+  - `System Engineer` (Oct 2017 - Dec 2021)
   - Roles Handled: `Backend Engineer, Full Stack Engineer, Machine Learning Engineer`
   - Teams Worked: `AI/ML Solutions Team (Internal), MetLife`
   - Tools Developed: `Microbots Automation, Fraud Detection, icket Triaging, Data Masking Tool`
