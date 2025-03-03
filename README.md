@@ -44,7 +44,7 @@
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
   - `System Engineer` (Oct 2017 - Dec 2021) (4 Years)
-  - Roles Handled: `Backend Engineer, Full Stack Engineer, ML Engineer`
+  - Roles Handled: `Backend Engineer, Full Stack Engineer, Machine Learning Engineer`
   - Teams Worked: `AI/ML Solutions Team (Internal), MetLife`
   - Tools Developed: `Microbots Automation, Fraud Detection, icket Triaging, Data Masking Tool`
 
