@@ -1,7 +1,7 @@
 <img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" style="align:centre;" width="300" height="250" /><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" height="270" />
 
 # `I'm Sijo Thomas,`
-# `Software & Web Developer (Full Stack) | Backend Engineer`
+# `Software & Web Developer (Full Stack) | Backend & System Engineer`
 ## `Python | AI | Machine Learning | NLP`
 
 [<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas97/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
