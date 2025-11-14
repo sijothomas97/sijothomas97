@@ -30,7 +30,7 @@
 
 
 
-<br/><!-- Experiance section -->
+<!-- <br/><!-- Experiance section -->
 
 
 
@@ -60,4 +60,4 @@
 
 `Bachelor of Computer Application` | Mahatma Gandhi University (March 2017)
 
-`Computer Science` | State Board Kerala (March 2014)
+`Computer Science` | State Board Kerala (March 2014) -->
