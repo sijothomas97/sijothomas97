@@ -30,7 +30,7 @@
 
 
 
-<!-- <br/><!-- Experiance section -->
+<!-- <br/><!-- Experiance section --
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-<br/><!-- Education section -->
+<br/><!-- Education section --
 
 
 
